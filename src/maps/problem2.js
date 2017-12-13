@@ -1,5 +1,6 @@
 // Instructions: run this file like so:
 // node problem2.js
+// Don't forget that the assert npm package needs to be installed
 
 var assert = require('assert');
 var price = { 123: 10 }
